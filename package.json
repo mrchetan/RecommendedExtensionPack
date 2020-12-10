@@ -1,0 +1,55 @@
+{
+	"name": "00thcbin-recommended",
+	"displayName": "00THCBin Recommended",
+	"description": "A Recommended collection for Laravel and Flutter development on VS Code by Chetan Bhalothia",
+	"version": "1.0.0",
+	"publisher": "thcbin",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thcbin/laravel-extension-pack"
+	},
+	"engines": {
+		"vscode": "^1.26.0"
+	},
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#8C9EFF",
+		"theme": "dark"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"keywords": [
+		"extension",
+		"pack",
+		"laravel",
+		"blade",
+		"php",
+		"flutter",
+		"dart",
+		"app",
+		"android",
+		"ios",
+		"snippet"
+	],
+	"extensionPack": [
+		"aaron-bond.better-comments", 
+        "CoenraadS.bracket-pair-colorizer", 
+        "eamodio.gitlens", 
+        "Equinusocio.vsc-material-theme", 
+        "esbenp.prettier-vscode", 
+        "GitHub.vscode-pull-request-github", 
+        "humao.rest-client", 
+        "jock.svg", 
+        "mhutchie.git-graph", 
+        "moyu.snapcode", 
+        "ms-vscode.notepadplusplus-keybindings", 
+        "PKief.material-icon-theme", 
+        "ritwickdey.LiveServer", 
+        "SimonSiefke.svg-preview", 
+        "tomoki1207.pdf", 
+        "usernamehw.errorlens", 
+        "VisualStudioExptTeam.vscodeintellicode"
+	]
+
+}
