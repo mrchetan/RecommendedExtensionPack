@@ -3,7 +3,7 @@
 	"displayName": "00THCBin Recommended",
 	"description": "A Recommended collection for Laravel and Flutter development on VS Code by Chetan Bhalothia",
 	"version": "1.0.0",
-	"publisher": "thcbin",
+	"publisher": "techthatmatters",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/techthatmatters/00thcbin-recommended-1.0.0"
