@@ -2,7 +2,7 @@
 	"name": "00thcbin-recommended",
 	"displayName": "00 THCBin Recommended Extension Pack",
 	"description": "A Recommended collection for Laravel and Flutter development on VS Code by Chetan Bhalothia",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"publisher": "techthatmatters",
 	"repository": {
 		"type": "git",
@@ -33,21 +33,21 @@
 		"snippet"
 	],
 	"extensionPack": [
+		"formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag", 
 		"aaron-bond.better-comments", 
         "CoenraadS.bracket-pair-colorizer", 
+        "pranaygp.vscode-css-peek", 
+        "usernamehw.errorlens", 
+        "mhutchie.git-graph", 
+        "ritwickdey.LiveServer", 
         "esbenp.prettier-vscode", 
         "humao.rest-client", 
-        "jock.svg", 
-        "mhutchie.git-graph", 
         "moyu.snapcode", 
-        "ritwickdey.LiveServer", 
+        "jock.svg", 
         "SimonSiefke.svg-preview", 
-        "tomoki1207.pdf", 
-        "usernamehw.errorlens", 
-        "pranaygp.vscode-css-peek", 
-        "formulahendry.auto-rename-tag", 
-        "formulahendry.auto-close-tag",
-        "VisualStudioExptTeam.vscodeintellicode"
+        "VisualStudioExptTeam.vscodeintellicode",
+        "tomoki1207.pdf"
 	]
 
 }
