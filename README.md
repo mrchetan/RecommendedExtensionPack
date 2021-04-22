@@ -18,7 +18,10 @@ VS Code extension pack help to create a your Flutter app using Dart and Laravel 
 
 * [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics.
 
-* [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and perform Git actions from the graph.
+
+* [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) - Shows image preview in the gutter and on hover
+
+* [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) - Copy JSON, paste as Go, TypeScript, C#, C++ and more.
 
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static & dynamic pages.
 
@@ -33,6 +36,8 @@ VS Code extension pack help to create a your Flutter app using Dart and Laravel 
 * [Svg Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview) - Preview for Svg files.
 
 * [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - AI-assisted development.
+
+* [vscode-faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) - Generate fake data for name, address, lorem ipsum, commerce and much more
 
 * [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) - Display pdf file in VSCode..
 

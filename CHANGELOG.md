@@ -18,3 +18,6 @@
 ## [1.0.4]
 
 - Update Extension
+
+## [1.1]
+- Add new extensions
