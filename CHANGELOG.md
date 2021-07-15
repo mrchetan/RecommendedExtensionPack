@@ -21,3 +21,7 @@
 
 ## [1.1]
 - Add new extensions
+## [1.2]
+- Add Remote - Containers extensions
+- Add Remote - SSH extensions
+- Add Remote - WSL extensions
