@@ -2,7 +2,7 @@
 	"name": "00thcbin-recommended",
 	"displayName": "00 THCBin Recommended Extension Pack",
 	"description": "A Recommended collection for Laravel and Flutter development on VS Code by Chetan Bhalothia",
-	"version": "1.2.0",
+	"version": "1.3.0",
 	"publisher": "techthatmatters",
 	"repository": {
 		"type": "git",
@@ -39,6 +39,7 @@
         "coenraads.bracket-pair-colorizer-2", 
 		"kisstkondoros.vscode-gutter-preview", 
 		"quicktype.quicktype",
+        "naumovs.color-highlight", 
         "pranaygp.vscode-css-peek", 
         "usernamehw.errorlens",
         "ritwickdey.LiveServer", 

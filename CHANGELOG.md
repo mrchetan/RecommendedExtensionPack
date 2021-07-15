@@ -25,3 +25,5 @@
 - Add Remote - Containers extensions
 - Add Remote - SSH extensions
 - Add Remote - WSL extensions
+## [1.3]
+- Add Color Highlight extensions
