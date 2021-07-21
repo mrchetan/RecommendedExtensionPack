@@ -1,12 +1,12 @@
 {
-	"name": "00thcbin-recommended",
-	"displayName": "00 THCBin Recommended Extension Pack",
+	"name": "recommended",
+	"displayName": "00 Mr Chetan Recommended Extension Pack",
 	"description": "A Recommended collection for Laravel and Flutter development on VS Code by Chetan Bhalothia",
-	"version": "1.3.0",
-	"publisher": "techthatmatters",
+	"version": "1.0.0",
+	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/techthatmatters/00thcbin-recommended"
+		"url": "https://github.com/mrchetan/RecommendedExtensionPack"
 	},
 	"engines": {
 		"vscode": "^1.26.0"

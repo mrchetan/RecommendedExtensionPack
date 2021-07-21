@@ -1,6 +1,6 @@
-## Recommended collection by Chetan Bhalothia
+## Recommended collection by Mr Chetan
 
-A Recommended collection for Laravel and Flutter development on VS Code by Chetan Bhalothia.
+A Recommended collection for Laravel and Flutter development on VS Code by Mr Chetan (Chetan Bhalothia).
 
 VS Code extension pack help to create a your Flutter app using Dart and Laravel apps.
 
@@ -57,7 +57,7 @@ VS Code extension pack help to create a your Flutter app using Dart and Laravel 
 * [GitHub Desktop](https://desktop.github.com/)
 ## For more information
 
-* [Contact THCBin](https://thcb.in/)
+* [Contact Mr Chetan](https://mrchetan.com/)
 
 **Enjoy Chetan's Extension Pack!**
 
