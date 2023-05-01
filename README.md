@@ -37,6 +37,8 @@ VS Code extension pack help to create a your Flutter app using Dart and Laravel 
 
 * [Svg Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview) - Preview for Svg files.
 
+* [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - This extension shows version information when opening a package or project for one of the following:composer,dotnet,dub,maven,npm,jspm,pnpm,pub
+
 * [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - AI-assisted development.
 
 * [vscode-faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) - Generate fake data for name, address, lorem ipsum, commerce and much more
