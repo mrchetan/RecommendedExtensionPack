@@ -18,6 +18,9 @@ VS Code extension pack help to create a your Flutter app using Dart and Laravel 
 
 * [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics.
 
+* [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub) - Remotely browse and edit any GitHub repository
+
+* [Remote Repositories](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-repositories) - Remotely browse and edit git repositories
 
 * [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) - Shows image preview in the gutter and on hover
 
