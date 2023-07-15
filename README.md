@@ -12,6 +12,8 @@ VS Code extension pack help to create a your Flutter app using Dart and Laravel 
 
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more!.
 
+* [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmark) - Mark lines and jump to them
+
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Highlight web colors in your editor.
 
 * [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
