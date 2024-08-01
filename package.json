@@ -2,7 +2,7 @@
 	"name": "recommended",
 	"displayName": "00 Mr Chetan Recommended Extension Pack",
 	"description": "A Recommended collection for Laravel and Flutter development on VS Code by Chetan Bhalothia",
-	"version": "1.5.1",
+	"version": "1.6.0",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
@@ -40,7 +40,6 @@
 		"kisstkondoros.vscode-gutter-preview",
 		"quicktype.quicktype",
         "naumovs.color-highlight",
-        "pranaygp.vscode-css-peek",
         "usernamehw.errorlens",
 		"GitHub.remotehub",
 		"ms-vscode.remote-repositories",

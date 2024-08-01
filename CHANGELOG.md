@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.6.0]
+- Remove Extension `CSS Peek`
+
 ## [1.5.0]
 
 - Add Extension  `Bookmarks`
