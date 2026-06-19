@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.8.1]
+- Remove Extension `formulahendry.auto-rename-tag`
+
 ## [1.8.0]
 - Update VS Code engine version to `^1.107.0`
 - Remove Extension `VisualStudioExptTeam.vscodeintellicode`
