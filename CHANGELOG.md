@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.8.0]
+- Update VS Code engine version to `^1.107.0`
+- Remove Extension `VisualStudioExptTeam.vscodeintellicode`
+
 ## [1.6.0]
 - Remove Extension `CSS Peek`
 
